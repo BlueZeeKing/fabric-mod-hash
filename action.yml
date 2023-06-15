@@ -1,0 +1,5 @@
+name: "Fabric Mod Hash"
+description: "Create a hash of a Fabric mod before it is released"
+runs:
+  using: "node20"
+  main: "index.js"
